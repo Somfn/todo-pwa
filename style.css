@@ -198,6 +198,10 @@ header h1 {
   font-size: 16px;
 }
 
+.completed-toggle[hidden] {
+  display: none;
+}
+
 .completed-toggle {
   display: flex;
   align-items: center;
